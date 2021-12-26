@@ -249,3 +249,9 @@ Generates an ideal ("tru-theta") fisheye image by creating a 3D sphere. An ideal
 [tf2_msgs/TFMessage]:https://docs.ros.org/en/melodic/api/tf2_msgs/html/msg/TFMessage.html
 [camera_calibration]:http://wiki.ros.org/camera_calibration
 [kalibr]:https://github.com/ethz-asl/kalibr
+
+## Dependencies:
+Hector models - https://github.com/tu-darmstadt-ros-pkg/hector_models
+kalibr - https://github.com/tu-darmstadt-ros-pkg/kalibr
+kalibr_image_geometry - https://github.com/tu-darmstadt-ros-pkg/kalibr_image_geometry
+usb_cam - https://github.com/dudasdavid/usb_cam
